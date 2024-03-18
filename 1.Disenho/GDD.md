@@ -29,10 +29,10 @@ Tiene varias escenas donde se puede empezar a jugar, pausarlo o volver a jugar e
 
 ## MECÁNICAS
 
-- Reglas: Las reglas son faciles, recorrer la maximad distancia posible recolectando las monedas para subir la puntuacion.
+- Reglas: Las reglas son faciles, recorrer la maxima distancia posible recolectando las monedas para subir la puntuacion.
 - Interacción: El personaje puede saltar para esquivar los obstaculos o coger monedas. Al chocar con un obstaculo se pierde la partida y al coger una moneda se aumenta la puntuacion.
 - Puntaje: El sistema de puntuacion esta influido por la distacia recorrida y las monedas recolectadas por cada jugador. Estaba pensado para que al perder un jugador el otro pudiera seguir jugando.
-- Dificultad: La dificultad esta en el aumento de la velocidad al recorrer mas distancia y al tener un salto algo complicado entre dos obstaculos.
+- Dificultad: La dificultad está en el aumento de la velocidad al recorrer mas distancia y al tener un salto algo complicado entre dos obstaculos.
 
 ## ELEMENTOS DEL VIDEOJUEGO
 
